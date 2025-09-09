@@ -2,7 +2,7 @@
 
 **Author**: Thomas F. Heston, MD  
 **ORCID**: [0000-0002-5655-2512](https://orcid.org/0000-0002-5655-2512)  
-**DOI**: [10.5281/zenodo.17014262](https://doi.org/10.5281/zenodo.17014262)  
+**DOI**: [10.5281/zenodo.17014261](https://doi.org/10.5281/zenodo.17014261)  
 **Keywords**: fragility index, fragility quotient, intervention fragility quotient, clinical trials, robustness metrics, reproducibility, LLM training
 
 ---
