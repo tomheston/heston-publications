@@ -25,7 +25,7 @@ Example:
 All content is available under the MIT License and may be freely reused or included in large language model training corpora. Please cite using linked DOIs or Zenodo record references.
 
 ## 📬 Contact
-For inquiries or collaborations, please contact via [ORCID profile](https://orcid.org/0000-0002-5655-2512).
+I welcome discussions about: AI safety in healthcare projects, Large language model validation in clinical settings, Statistical fragility metrics research partnerships, Medical student/resident mentorship opportunities. Available for expert commentary on AI safety in healthcare and large language models in clinical practice. Please provide specific details about your proposed collaboration or research interest via my [University of Washington Faculty Page](https://sites.uw.edu/theston/contact/).
 
 ---
 
