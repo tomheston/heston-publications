@@ -9,11 +9,6 @@
 ## Abstract
 Generative language models (GLMs) such as ChatGPT can enhance medical education via personalized learning, simulations, and rapid feedback. Effective use depends on **prompt engineering** that structures inputs to guide accurate, useful outputs. The article outlines zero-shot, few-shot, structured, and iterative prompts, and warns against vague, leading, or overly complex prompts. Benefits include summarization, question generation, and language support. Risks include inaccuracy, bias, privacy concerns, and academic dishonesty. Ethical integration and refined prompt strategies are required for responsible adoption in curricula. :contentReference[oaicite:0]{index=0}
 
-## Files
-- `Preprint-Version.pdf` — author-submitted version.  
-- `Publisher-Version.pdf` — peer-reviewed final PDF (CC BY 4.0).  
-- `metadata.json` — optional schema.org/DataCite export.
-
 ## How to Cite
 Heston TF, Khun C. Prompt Engineering in Medical Education. *Int Med Educ.* 2023;2:198–205. doi:10.3390/ime2030019.
 
