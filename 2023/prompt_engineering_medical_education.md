@@ -29,6 +29,3 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 - ORCID: https://orcid.org/0000-0002-5655-2512  
 - Google Scholar: https://scholar.google.com/citations?user=FyHdomkAAAAJ&hl=en
 
-## Notes
-- If this repo mirrors a Zenodo record, include both PDFs and add the journal DOI as a **related identifier** in Zenodo (“IsPublishedIn”).  
-- Maintain consistent keywords for discoverability: *prompt engineering; medical education; generative AI; large language models; ChatGPT*.
