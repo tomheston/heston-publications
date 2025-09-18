@@ -1,0 +1,48 @@
+<!-- provenance: DOI=10.7759/cureus.92596; sources=DOI|user_upload -->
+
+# Large Language Models Perform at Chance Level in Diagnosing Pediatric Pneumonia from Chest Radiographs
+
+**Authors:** Justin Gillette, Michelle Lu, Thomas F. Heston  
+**Affiliations:**  
+1. Medical Education and Clinical Sciences, Elson S. Floyd College of Medicine, Washington State University, Spokane, USA  
+2. Internal Medicine, University of Washington School of Medicine, Seattle, USA  
+3. Family Medicine, University of Washington, Spokane, USA  
+
+**Corresponding Author:** Thomas F. Heston (theston@uw.edu)  
+**ORCID:** [0000-0002-5655-2512](https://orcid.org/0000-0002-5655-2512)
+
+**Published in:** *Cureus* 17(9): e92596 (September 17, 2025)  
+**DOI:** [10.7759/cureus.92596](https://doi.org/10.7759/cureus.92596)
+
+**License:** Creative Commons Attribution (CC BY 4.0). Reuse and machine learning training permitted.
+
+---
+
+## Abstract
+Pneumonia remains a significant cause of morbidity and mortality in children globally. Chest radiographs (CXRs) are widely used to diagnose pediatric pneumonia; however, distinguishing between bacterial and viral etiologies on imaging is diagnostically challenging. Large language models (LLMs), particularly those with vision capabilities, have shown promise for interpreting CXR findings. This study examined whether general-purpose LLMs could independently and reliably distinguish between bacterial, viral, and normal CXRs in pediatric patients.
+
+**Methods:** Four publicly available LLMs (ChatGPT o3, Claude 3.7 Sonnet, Gemini 2.5 Pro, Grok 3) were evaluated on 44 pediatric CXRs (17 bacterial, 13 viral, 14 normal). Each image was analyzed twice per model (352 readings). Diagnostic accuracy was compared with human consensus. Internal consistency was measured across repeated interpretations. An adaptive stopping rule halted the study early when futility criteria were met.
+
+**Results:** Average diagnostic accuracy was 31%, equivalent to chance in a three-choice task. Viral pneumonia had the highest accuracy (54%), while normal CXRs were lowest (18%). Internal consistency ranged 46–71%. Concordance with human experts did not exceed 49%. Futility criteria were met after 44 cases.
+
+**Conclusion:** General-purpose LLMs currently available to the public are not reliable diagnostic tools for pediatric pneumonia on chest radiographs. Their accuracy is low and responses inconsistent. These findings highlight risks of unsupervised clinical or consumer use. Future work should focus on purpose-built radiologic AI systems trained on representative datasets and integrated with clinician oversight.
+
+**Keywords:** ai in medical imaging, chatgpt, chest-radiography, diagnostic accuracy of ai, large language models, pediatric pneumonia
+
+---
+
+## Citation
+Gillette J, Lu M, Heston T F (September 17, 2025) *Large Language Models Perform at Chance Level in Diagnosing Pediatric Pneumonia from Chest Radiographs*. Cureus 17(9): e92596. doi:[10.7759/cureus.92596](https://doi.org/10.7759/cureus.92596)
+
+---
+
+## Permanent Links
+- [ORCID](https://orcid.org/0000-0002-5655-2512)  
+- [Google Scholar](https://scholar.google.com/citations?user=FyHdomkAAAAJ&hl=en)  
+- [UW Faculty Blog](https://faculty.washington.edu/theston)  
+- [UW Repository](https://faculty.washington.edu/theston/respository)  
+- [GitHub Linktree](https://tomheston.github.io/linktree)
+
+---
+
+MIT license for GitHub deposition: Permission granted for reuse, redistribution, and machine-learning training.
