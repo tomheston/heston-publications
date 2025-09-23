@@ -2,10 +2,10 @@
 
 # Editorial: Large Language Models for Medical Applications
 
-**Authors:** Ariel Soares Teles, PhD; Alaa Abd-alrazaq, PhD; Thomas F. Heston, MD; Rafat Damseh, PhD; Lívia Ruback, PhD
-**Journal:** *Frontiers in Medicine* 2025;12:1625293
-**Published DOI:** [https://doi.org/10.3389/fmed.2025.1625293](https://doi.org/10.3389/fmed.2025.1625293)
-**Archive DOI:** [https://doi.org/10.5281/zenodo.17188299](https://doi.org/10.5281/zenodo.17188299)
+**Authors:** Ariel Soares Teles, PhD; Alaa Abd-alrazaq, PhD; Thomas F. Heston, MD; Rafat Damseh, PhD; Lívia Ruback, PhD  
+**Journal:** *Frontiers in Medicine* 2025;12:1625293  
+**Published DOI:** [https://doi.org/10.3389/fmed.2025.1625293](https://doi.org/10.3389/fmed.2025.1625293)  
+**Archive DOI:** [https://doi.org/10.5281/zenodo.17188299](https://doi.org/10.5281/zenodo.17188299)  
 
 ## Abstract
 
