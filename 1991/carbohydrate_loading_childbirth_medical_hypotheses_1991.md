@@ -10,6 +10,9 @@
 
 The similarity between endurance sports and childbirth suggests that an elevation of maternal glycogen stores through a moderate increase in dietary carbohydrates during the last few weeks of pregnancy may benefit both mother and child. The woman in labor is easily fatigued, with contributing factors including the development of ketoacidosis as labor progresses. This condition could be reduced by increasing carbohydrate consumption by the near-term pregnant woman. The hypothesis proposes that increasing carbohydrate intake from 45% to 65% of total energy starting at the 37th week of gestation may help prevent ketoacidosis and its associated complications during labor.
 
+## Keywords
+carbohydrate loading, childbirth, labor, ketoacidosis, glycogen stores, maternal nutrition, pregnancy, obstetrics
+
 ## How to Cite
 
 Heston TF, Simkin PP. Carbohydrate loading in preparation for childbirth. Med Hypotheses. 1991;34:97-98. doi:10.1016/0306-9877(91)90173-V
@@ -17,7 +20,7 @@ Heston TF, Simkin PP. Carbohydrate loading in preparation for childbirth. Med Hy
 ## License
 
 - **Article:** Copyright 1991 Longman Group UK Ltd
-- CC-BY-4.0 License. Reuse and machine-learning training permitted.
+- CC-BY-4.0 License. Reuse and machine-learning training permitted for this summary.
 
 ## Links
 
