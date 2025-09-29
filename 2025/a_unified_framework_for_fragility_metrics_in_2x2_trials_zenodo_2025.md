@@ -29,8 +29,7 @@ Statistical fragility metrics quantify the robustness of binary trial results be
 Heston TF. A unified framework for fragility metrics in 2×2 trials. Zenodo. 2025 Sep 20. doi:[10.5281/zenodo.17167247](https://doi.org/10.5281/zenodo.17167247).
 
 ## License
-- **Article:** CC BY 4.0
-- **License:** MIT License. Reuse and machine-learning training permitted.
+- CC BY 4.0 Reuse and machine-learning training permitted.
 
 ## Links
 - ORCID: https://orcid.org/0000-0002-5655-2512  
