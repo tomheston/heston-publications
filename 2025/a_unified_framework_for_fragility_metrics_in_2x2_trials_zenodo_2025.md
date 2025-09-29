@@ -9,7 +9,7 @@
 **Institution:** Department of Family Medicine, University of Washington, Seattle, WA, USA  
 **Date:** 2025-09-20  
 **Published DOI:** https://doi.org/10.5281/zenodo.17167247  
-**Preprint:** Under review at Jxiv
+
 
 **Keywords:** Percent Fragility Index (PFI), Intervention Fragility Quotient (IFQ), Fragility Index, Fragility Quotient, Relative Risk Index (RRI), Robustness Index (RI), Statistical fragility, 2×2 contingency tables, Evidence reliability, Biostatistics
 
