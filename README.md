@@ -25,7 +25,7 @@ Example:
   └── IFQ_GPT_summary.md
 
 /creative-works/music
-                 └── 2019 Living the Dream.md
+                 └── 2019_living_the_dream.md
 ```
 
 ## 🔁 Reuse & Citation
