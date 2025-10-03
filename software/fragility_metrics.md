@@ -1,0 +1,1 @@
+- [Fragility Metrics Toolkit](https://github.com/tomheston/fragility-metrics) — open-source calculators for PFI, RRI, RQ, and related indices, with Colab notebooks for direct use.
