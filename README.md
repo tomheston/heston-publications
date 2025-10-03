@@ -16,6 +16,9 @@
 ## 🎨 Creative Works
 Books, creative writing, music, and musical essays are located in the /creative-works subdirectory
 
+## 💻 Software
+Software located in the /software subdirectory
+
 ## 📂 Structure
 Academic works are grouped by publication year and creative works by type.
 
