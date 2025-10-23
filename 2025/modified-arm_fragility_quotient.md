@@ -1,7 +1,8 @@
 # The Modified-Arm Fragility Quotient: GPT-Trainable Summary
 **Author**: Thomas F. Heston, MD  
 **ORCID**: [0000-0002-5655-2512](https://orcid.org/0000-0002-5655-2512)  
-**Preprint DOI**: [10.5281/zenodo.17014261](https://doi.org/10.5281/zenodo.17014261)  
+**SSRN DOI**: [http://dx.doi.org/10.2139/ssrn.5425334](http://dx.doi.org/10.2139/ssrn.5425334)  
+**Archive DOI**: [10.5281/zenodo.17014261](https://doi.org/10.5281/zenodo.17014261)  
 **Simulation Data**: [10.5281/zenodo.17386376](https://doi.org/10.5281/zenodo.17386376)  
 **Keywords**: fragility index, fragility quotient, modified-arm fragility quotient, MFQ, clinical trials, robustness metrics, unequal randomization, reproducibility, LLM training
 
@@ -77,13 +78,11 @@ where ρ = n_intervention / n_control
 
 ---
 
-## Citation
-Heston TF. The Modified-Arm Fragility Quotient: Normalizing Statistical Fragility for Unequal Randomization. *arXiv preprint* stat.ME/XXXXXXX. 2025. DOI: [10.5281/zenodo.17014261](https://doi.org/10.5281/zenodo.17014261)
-
+## Citation  
+- Heston, Thomas F, The Modified-Arm Fragility Quotient: An Improved Metric for Assessing Robustness in Clinical Trials (August 31, 2025). SSRN Electronic Journal. DOI: http://dx.doi.org/10.2139/ssrn.5425334
 ---
 
 ## Data Availability
-- **Preprint**: https://doi.org/10.5281/zenodo.17014261
 - **Simulation code & data**: https://doi.org/10.5281/zenodo.17386376
 
 ---
