@@ -17,3 +17,6 @@ Heston TF. Fragility of Assumptions: Letter to the Editor. *Orthop J Sports Med*
 ## Links
 - ORCID: https://orcid.org/0000-0002-5655-2512
 - Fragility Metrics Toolkit: https://github.com/tomheston/fragility-metrics/blob/main/FRAGILITY_METRICS.md
+- Google Scholar: https://scholar.google.com/citations?user=FyHdomkAAAAJ&hl=en
+- Linktree: https://tomheston.github.io/linktree
+- Fragility Metrics Calculators: https://doi.org/10.5281/zenodo.17254763
